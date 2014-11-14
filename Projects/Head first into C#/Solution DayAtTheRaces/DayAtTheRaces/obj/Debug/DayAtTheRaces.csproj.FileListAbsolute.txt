@@ -1,5 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe.config
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csprojResolveAssemblyReference.cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Form1.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Properties.Resources.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.GenerateResource.Cache

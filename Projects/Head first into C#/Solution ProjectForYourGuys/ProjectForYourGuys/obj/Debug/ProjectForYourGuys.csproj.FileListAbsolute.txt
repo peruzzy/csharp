@@ -1,9 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\bin\Debug\ProjectForYourGuys.exe.config
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\obj\Debug\ProjectForYourGuys.csprojResolveAssemblyReference.cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\obj\Debug\ProjectForYourGuys.Form1.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\obj\Debug\ProjectForYourGuys.Properties.Resources.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\obj\Debug\ProjectForYourGuys.csproj.GenerateResource.Cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\bin\Debug\ProjectForYourGuys.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\bin\Debug\ProjectForYourGuys.pdb
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\obj\Debug\ProjectForYourGuys.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution ProjectForYourGuys\ProjectForYourGuys\obj\Debug\ProjectForYourGuys.pdb

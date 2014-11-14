@@ -1,9 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\bin\Debug\SwapElephant.exe.config
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\bin\Debug\SwapElephant.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\bin\Debug\SwapElephant.pdb
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\obj\Debug\SwapElephant.csprojResolveAssemblyReference.cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\obj\Debug\SwapElephant.Form1.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\obj\Debug\SwapElephant.Properties.Resources.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\obj\Debug\SwapElephant.csproj.GenerateResource.Cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\obj\Debug\SwapElephant.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SwapElephant\SwapElephant\obj\Debug\SwapElephant.pdb

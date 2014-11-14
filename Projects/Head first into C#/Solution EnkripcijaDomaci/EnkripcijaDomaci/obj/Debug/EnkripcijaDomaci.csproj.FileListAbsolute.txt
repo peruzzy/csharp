@@ -1,8 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\bin\Debug\EnkripcijaDomaci.exe.config
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\obj\Debug\EnkripcijaDomaci.csprojResolveAssemblyReference.cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\obj\Debug\EnkripcijaDomaci.Properties.Resources.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\obj\Debug\EnkripcijaDomaci.csproj.GenerateResource.Cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\bin\Debug\EnkripcijaDomaci.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\bin\Debug\EnkripcijaDomaci.pdb
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\obj\Debug\EnkripcijaDomaci.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution EnkripcijaDomaci\EnkripcijaDomaci\obj\Debug\EnkripcijaDomaci.pdb

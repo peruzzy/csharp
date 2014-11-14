@@ -1,9 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\bin\Debug\Bouncing Labels.exe.config
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\bin\Debug\Bouncing Labels.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\bin\Debug\Bouncing Labels.pdb
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\obj\Debug\Bouncing Labels.csprojResolveAssemblyReference.cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\obj\Debug\Bouncing_Labels.Form1.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\obj\Debug\Bouncing_Labels.Properties.Resources.resources
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\obj\Debug\Bouncing Labels.csproj.GenerateResource.Cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\obj\Debug\Bouncing Labels.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Bouncing Labels\Bouncing Labels\obj\Debug\Bouncing Labels.pdb

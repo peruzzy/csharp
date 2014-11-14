@@ -1,6 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer 01\Primer 01\bin\Debug\Primer 01.exe.config
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer 01\Primer 01\bin\Debug\Primer 01.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer 01\Primer 01\bin\Debug\Primer 01.pdb
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer 01\Primer 01\obj\Debug\Primer 01.csprojResolveAssemblyReference.cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer 01\Primer 01\obj\Debug\Primer 01.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer 01\Primer 01\obj\Debug\Primer 01.pdb

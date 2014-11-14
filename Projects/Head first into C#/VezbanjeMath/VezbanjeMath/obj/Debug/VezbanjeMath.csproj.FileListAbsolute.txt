@@ -1,6 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\VezbanjeMath\VezbanjeMath\bin\Debug\VezbanjeMath.exe.config
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\VezbanjeMath\VezbanjeMath\bin\Debug\VezbanjeMath.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\VezbanjeMath\VezbanjeMath\bin\Debug\VezbanjeMath.pdb
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\VezbanjeMath\VezbanjeMath\obj\Debug\VezbanjeMath.csprojResolveAssemblyReference.cache
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\VezbanjeMath\VezbanjeMath\obj\Debug\VezbanjeMath.exe
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\VezbanjeMath\VezbanjeMath\obj\Debug\VezbanjeMath.pdb

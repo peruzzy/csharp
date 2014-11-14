@@ -1,4 +1,0 @@
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\MojaBibliotekaCS\bin\Debug\MojaBibliotekaCS.dll
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\MojaBibliotekaCS\bin\Debug\MojaBibliotekaCS.pdb
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\MojaBibliotekaCS\obj\Debug\MojaBibliotekaCS.dll
-C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\MojaBibliotekaCS\obj\Debug\MojaBibliotekaCS.pdb
