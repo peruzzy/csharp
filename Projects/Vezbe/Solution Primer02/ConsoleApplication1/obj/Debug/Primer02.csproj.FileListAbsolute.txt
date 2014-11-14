@@ -1,0 +1,8 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\bin\Debug\MojaBibliotekaCS.dll
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\bin\Debug\MojaBibliotekaCS.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\obj\Debug\Primer02.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Vezbe\Solution Primer02\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

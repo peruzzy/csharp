@@ -1,0 +1,5 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program2\Program2\obj\Debug\Program2.pdb

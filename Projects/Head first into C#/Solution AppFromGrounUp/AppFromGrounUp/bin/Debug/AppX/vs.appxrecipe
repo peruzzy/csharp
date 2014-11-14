@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PERUZZY</Machine>
+    <WindowsUser>Petar Prokić</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82996ff9-a665-483e-aaa2-de9ecdbc63c2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6E44FAEBC10F04B0233AB091BCEDA0AC7954AEC46402DC77F988B37FA6F69109</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>82996ff9-a665-483e-aaa2-de9ecdbc63c2_1.0.0.0_neutral__y6pm0mmxkh9tw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>82996ff9-a665-483e-aaa2-de9ecdbc63c2_y6pm0mmxkh9tw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>82996ff9-a665-483e-aaa2-de9ecdbc63c2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Petar Prokić</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-27T09:27:48.365</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\bin\Debug\AppFromGrounUp.exe">
+      <PackagePath>AppFromGrounUp.exe</PackagePath>
+      <Modified>2014-10-27T09:45:40.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-27T09:27:45.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-27T09:40:05.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\bin\Debug\AppFromGrounUp.xr.xml">
+      <PackagePath>AppFromGrounUp.xr.xml</PackagePath>
+      <Modified>2014-10-27T09:27:44.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution AppFromGrounUp\AppFromGrounUp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-27T09:27:46.805</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

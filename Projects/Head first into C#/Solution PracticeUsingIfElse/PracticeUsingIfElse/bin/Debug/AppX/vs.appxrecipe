@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PERUZZY</Machine>
+    <WindowsUser>Petar Prokić</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>710f2632-5902-43c3-b06e-2a73c3e021b9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>351F569319FD1B74C8AC8FCFB1C091973152FA422C14433F8BEBD44A420E2B51</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>710f2632-5902-43c3-b06e-2a73c3e021b9_1.0.0.0_neutral__y6pm0mmxkh9tw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>710f2632-5902-43c3-b06e-2a73c3e021b9_y6pm0mmxkh9tw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>710f2632-5902-43c3-b06e-2a73c3e021b9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Petar Prokić</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-29T16:37:37.108</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\PracticeUsingIfElse.exe">
+      <PackagePath>PracticeUsingIfElse.exe</PackagePath>
+      <Modified>2014-10-29T16:44:02.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-29T16:37:35.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-29T16:37:35.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\PracticeUsingIfElse.xr.xml">
+      <PackagePath>PracticeUsingIfElse.xr.xml</PackagePath>
+      <Modified>2014-10-29T16:37:35.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-29T16:37:36.317</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

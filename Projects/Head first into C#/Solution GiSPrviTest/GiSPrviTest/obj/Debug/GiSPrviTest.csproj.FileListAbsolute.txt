@@ -1,0 +1,9 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\bin\Debug\GiSPrviTest.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\bin\Debug\GiSPrviTest.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\bin\Debug\GiSPrviTest.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\obj\Debug\GiSPrviTest.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\obj\Debug\GiSPrviTest.Form1.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\obj\Debug\GiSPrviTest.Properties.Resources.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\obj\Debug\GiSPrviTest.csproj.GenerateResource.Cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\obj\Debug\GiSPrviTest.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution GiSPrviTest\GiSPrviTest\obj\Debug\GiSPrviTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\bin\Debug\FlashyThing.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.Form1.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.Properties.Resources.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.csproj.GenerateResource.Cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\bin\Debug\FlashyThing.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\bin\Debug\FlashyThing.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.pdb

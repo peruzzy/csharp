@@ -1,0 +1,9 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\bin\Debug\Reimbursment Calculator.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\bin\Debug\Reimbursment Calculator.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\bin\Debug\Reimbursment Calculator.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\obj\Debug\Reimbursment Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\obj\Debug\Reimbursment_Calculator.Form1.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\obj\Debug\Reimbursment_Calculator.Properties.Resources.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\obj\Debug\Reimbursment Calculator.csproj.GenerateResource.Cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\obj\Debug\Reimbursment Calculator.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Reimbursement Calculator\Reimbursment Calculator\obj\Debug\Reimbursment Calculator.pdb

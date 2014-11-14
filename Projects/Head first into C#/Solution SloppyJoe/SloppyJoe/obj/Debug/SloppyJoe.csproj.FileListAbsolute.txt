@@ -1,0 +1,9 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\bin\Debug\SloppyJoe.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\bin\Debug\SloppyJoe.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\bin\Debug\SloppyJoe.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.Form1.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.Properties.Resources.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.csproj.GenerateResource.Cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.pdb

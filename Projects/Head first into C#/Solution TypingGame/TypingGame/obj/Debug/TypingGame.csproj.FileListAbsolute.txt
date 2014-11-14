@@ -1,0 +1,9 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\obj\Debug\TypingGame.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\obj\Debug\TypingGame.Form1.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.Cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution TypingGame\TypingGame\obj\Debug\TypingGame.pdb

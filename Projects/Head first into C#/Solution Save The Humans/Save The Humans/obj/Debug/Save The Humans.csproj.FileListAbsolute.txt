@@ -1,0 +1,32 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\App.xbf
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\MainPage.xbf
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\Save The Humans.xr.xml
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\resources.pri
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\AppxManifest.xml
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\bin\Debug\Save The Humans.build.appxrecipe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\App.g.i.cs
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\App.g.cs
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\MainPage.g.i.cs
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\MainPage.g.cs
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\App.xaml
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\App.xbf
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\MainPage.xaml
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\MainPage.xbf
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\priconfig.xml
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\priconfig.xml.intermediate
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\layout.resfiles
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\layout.resfiles.intermediate
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\resources.resfiles
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\resources.resfiles.intermediate
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\pri.resfiles
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\pri.resfiles.intermediate
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\qualifiers.txt
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Head first into C#\Solution Save The Humans\Save The Humans\obj\Debug\ProjectArchitectures.txt
