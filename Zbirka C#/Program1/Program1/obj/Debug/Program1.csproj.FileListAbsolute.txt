@@ -1,0 +1,6 @@
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program1\Program1\obj\Debug\Program1.pdb
