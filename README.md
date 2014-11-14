@@ -1,9 +1,9 @@
 csharp
 ======
 
-C# repository
+C# repozitorijum
 
 
 
-Repository of my code that I make while learning C#.
+Repozitorijum odrađenih zadataka iz zbirke, sadrži i zadatke sa vežbi iz škole.
 
