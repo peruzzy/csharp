@@ -1,0 +1,6 @@
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program4\Program4\obj\Debug\Program4.pdb
