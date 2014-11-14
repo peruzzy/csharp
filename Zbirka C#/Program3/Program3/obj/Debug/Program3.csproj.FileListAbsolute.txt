@@ -1,1 +1,6 @@
 C:\Users\Petar Prokić\Documents\Visual Studio 2013\Projects\Zbirka C#\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program3\Program3\bin\Debug\Program3.exe
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program3\Program3\bin\Debug\Program3.pdb
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program3\Program3\obj\Debug\Program3.exe
+C:\Users\Petar Prokić\Desktop\CSharp\Zbirka C#\Program3\Program3\obj\Debug\Program3.pdb
